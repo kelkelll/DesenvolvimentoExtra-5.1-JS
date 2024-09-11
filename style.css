@@ -1,0 +1,17 @@
+body {
+    background-color: darkgrey;
+}
+section {
+    display: flex;
+    justify-content: center;
+    border-color: black;
+    border-radius: 3px;
+}
+section a {
+    padding-left: 90px;
+    text-decoration: none;  
+}
+#titulo {
+    display: flex;
+    justify-content: center;
+}
